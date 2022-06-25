@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&family=Smooch&display=swap');
+.thumbnail{
+    background-color:blueviolet;
+}
+body{margin-top: 25px;}
+
+.container{
+    margin:auto;
+    width: 75%;
+    border: 4px solid cornflowerblue;
+    padding: 10px;
+}
+.img-main{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 50%;
+
+}
+H1{text-align:center;
+font-family: Smooch ;}
+H2{text-align:center;}
+H3{text-align:center;
+  font-family: Smooch ;}
+  P{font-family: League Gothic;}
